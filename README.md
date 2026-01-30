@@ -3,7 +3,7 @@ index.html <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Your Name | Graphic Designer</title>
+  <title> Madhvesh Thakur | Graphic Designer</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
