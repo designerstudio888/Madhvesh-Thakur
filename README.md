@@ -1,7 +1,7 @@
 # Madhvesh-Thakur 
 index.html <!DOCTYPE html>
 <html lang="en">
-<<link rel="stylesheet" href="style.css">
+<< head link rel="stylesheet" href="style.css">
 >
   <meta charset="UTF-8">
    Madhvesh Thakur | Graphic Designer
