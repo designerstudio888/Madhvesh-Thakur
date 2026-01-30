@@ -34,7 +34,7 @@ creative and effective designs for social media and digital platforms.</>
 </body>
 </html>
 
-style.css * {
+style.css : * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -132,15 +132,3 @@ p {
 .contact p {
   margin-top: 10px;
 }
-
-
-section {
-  padding: 60px 20px;
-  text-align: center;
-}
-
-#hero {
-  background: #111;
-  color: #fff;
-}
-
