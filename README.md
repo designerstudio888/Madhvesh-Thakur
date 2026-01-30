@@ -9,13 +9,14 @@ index.html <!DOCTYPE html>
 <body>
 
   <section id="hero">
-    <h1>Your Name</h1>
-    <p>Graphic Designer & YouTube Content Creator</p>
+    <>Madhvesh Thakur </>
+    <>Graphic Designer & YouTube Content Creator</>
   </section>
 
   <section id="about">
     <h2>About Me</h2>
-    <p>I am a graphic designer who creates social media posts, posters and thumbnails.</p>
+    <> I am a passionate graphic designer focused on creating clean,
+creative and effective designs for social media and digital platforms.</>
   </section>
 
   <section id="portfolio">
@@ -25,12 +26,12 @@ index.html <!DOCTYPE html>
 
   <section id="youtube">
     <h2>YouTube</h2>
-    <p>Visit my YouTube channel.</p>
+    <>Visit my YouTube channel. https://youtube.com/@designerstudio888?si=8cutT2HU2ThTGeQc  </>
   </section>
 
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email | Instagram | YouTube</p>
+    <>Email : designerstudio888@gmail.com | Instagram : itz_thakur_0251 | YouTube : designerstudio888.</>
   </section>
 
 </body>
