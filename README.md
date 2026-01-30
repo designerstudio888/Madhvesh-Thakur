@@ -1,8 +1,10 @@
-# Madhvesh-Thakur 
-index.html <!DOCTYPE html>
-<html lang="en">
-<< head link rel="stylesheet" href="style.css">
->
+<head>
+  <meta charset="UTF-8">
+  <title>Your Name | Graphic Designer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+
   <meta charset="UTF-8">
    Madhvesh Thakur | Graphic Designer
   <link rel="stylesheet" href="style.css">
