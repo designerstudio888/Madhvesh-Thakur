@@ -3,14 +3,14 @@ index.html <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-   Madhvesh Thakur | Graphic Designer</title>
+   Madhvesh Thakur | Graphic Designer
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
   <section id="hero">
-    <>Madhvesh Thakur </>
-    <>Graphic Designer & YouTube Content Creator</>
+    Madhvesh Thakur 
+    Graphic Designer & YouTube Content Creator
   </section>
 
   <section id="about">
